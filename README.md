@@ -14,9 +14,7 @@
 </div>
 <hr>
 <div align="center">
-    <div>
        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Diyar-Ali" alt="GitHub Streak" /></a>
-    </div>
     <hr>
     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,javascript,typescript,angular,vite,cs,dotnet,mysql,python,flask" />
     <hr>
