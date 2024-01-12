@@ -14,7 +14,6 @@
 </div>
 <hr>
 <div align="center">
-    <hr>
     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,javascript,typescript,angular,vite,cs,dotnet,mysql,python,flask" />
     <hr>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Diyar-Ali/Diyar-Ali/output/github-contribution-grid-snake.svg" />
